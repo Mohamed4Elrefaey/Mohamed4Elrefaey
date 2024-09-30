@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **kotlin , Android**
 
-- 📄 Know about my experiences [I still learning](I still learning)
+- 📄 Know about my experiences I still learning
 
 - ⚡ Fun fact **I'm a big traveling lover ✈️🤓**
 
