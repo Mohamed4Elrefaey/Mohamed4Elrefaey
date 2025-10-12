@@ -5,7 +5,7 @@
 </p>
 
 [![](https://visitcount.itsvg.in/api?id=jeffdevx&icon=0&color=0)](https://visitcount.itsvg.in)<br>
-# <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width ="25"> <b> Hi there! I’m Mohamed Hamed, a Flutter developer in progress 🌱 <sub style="font-size: 20px; font-style: italic"> </sub><br>
+# <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width ="20"> <b> Hi there! I’m Mohamed Hamed, a Flutter developer in progress 🌱 <sub style="font-size: 18px; font-style: italic"> </sub><br>
 
 ⚡A passionate learner exploring the world of mobile app development with Flutter & Dart. <br>
 ✨I enjoy creating modern, user-friendly apps and sharing my learning journey,
